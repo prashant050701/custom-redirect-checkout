@@ -32,7 +32,6 @@ This URL will:
 - Redirect the customer to the checkout page with only that product.
 - This way product quantity will not increase on reload.
 
-## License
 
 This plugin is open-source and released under the [MIT License](LICENSE).
 
